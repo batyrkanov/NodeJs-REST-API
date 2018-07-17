@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-rest-api",
+  "version": "1.0.0",
+  "description": "Restful Web Api on NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batyrkanov/NodeJs-REST-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batyrkanov/NodeJs-REST-API/issues"
+  },
+  "homepage": "https://github.com/batyrkanov/NodeJs-REST-API#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
